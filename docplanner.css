@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.introdution {
+  display: flex;
+  align-items: center;
+flex-direction: column;}
+.introduction div {display: flex;}
